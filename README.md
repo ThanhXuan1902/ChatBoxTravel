@@ -1,6 +1,5 @@
 # ChatBoxTravel
-# Tên đề tài
-- XÂY DỰNG CHATBOT TỰ ĐỘNG VỚI PYTHON
+# Tên đề tài: XÂY DỰNG CHATBOT TỰ ĐỘNG VỚI PYTHON
 # Liệt kê các thư viện sử dụng (mô tả 1 dòng về chức năng của mỗi thư viện) và Mã nguồn tham khảo chính (Cung cấp Link Github hoặc link đến mã nguồn mà nhóm tham khảo)
 - Thư Viện Numpy: hỗ trợ cho việc tính toán các mảng nhiều chiều, có kích thước lớn với các hàm đã được tối ưu áp dụng lên các mảng nhiều chiều đó.
 - JSON là tên viết tắt của cụm từ JavaScript Object Notation, nó là một kiểu định dạng dữ liệu tuân theo một quy tắc nhất định mà hầu hết mọi ngôn ngữ lập trình hiện nay đều có thể đọc được. JSON là một trong những tiêu chuẩn mở giúp trao đổi dữ liệu có trên website. Ở bài này em dùng json để đọc dữ liệu file Json và lưu vào trong các mảng
