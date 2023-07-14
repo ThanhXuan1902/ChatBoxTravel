@@ -31,3 +31,5 @@
 - >>> nltk.download('punkt')
 - Chạy chương trình: chạy file train.py để training dữ liệu. Và đây là kết quả gồm có: 29 tag, và túi từ đê dự đoán kết quả gồm 185 từ gốc độc đáo được phân tích từ gốc.
 # Kết quả
+- Giao diện chính: https://github.com/ThanhXuan1902/ChatBoxTravel/blob/main/Result/home.png
+- Giao diện khi nhấn vào chatbox: https://github.com/ThanhXuan1902/ChatBoxTravel/blob/main/Result/chatbox.png
